@@ -131,7 +131,7 @@ python ./image_inference/image_inference.py
 ```
 
 ## Citation
-
+感谢changer团队所开发的opencd变化检测框架为本项目做出的贡献。
 ```bibtex
 @ARTICLE{10129139,
   author={Fang, Sheng and Li, Kaiyu and Li, Zhe},
