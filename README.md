@@ -58,6 +58,7 @@ pip install "mmsegmentation>=1.0.0"
 pip install "mmdet>=3.0.0"
 pip install ftfy
 pip install timm
+pip install regex
 ```
 ```
 cd open-cd-main
